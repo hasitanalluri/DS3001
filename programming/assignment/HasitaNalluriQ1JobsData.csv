@@ -1,0 +1,9 @@
+﻿job,pay,edu,exp,train,n_employed,outlook,change_employment,top_places,physical_work_environment,social_work_environment
+data scientist,108020,BS,N,N,202900,36,73100,DC,office,na
+kindergarten and elementary school teacher,63670,BEd,N,N,1563700,-1,-11500,"ME, LA",school,team
+radiologic and mri technologist,76020,AS,Y,N,271200,6,16800,"WV, MA",healthcare,team
+management analyst,99410,BS,Y,N,1018300,11,107900,DC,"office, outside",team
+public relations specialist,66750,BA,N,N,308000,6,19200,DC,"office, outside",team
+graphic designer,58910,BA,N,N,267200,2,6600,DC,studio,team
+architect,93310,BA,N,Y,127300,8,9900,DC,"office, outside",team
+model,47430,N,N,N,3600,0,0,NY,outside,solo
